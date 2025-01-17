@@ -10,7 +10,7 @@ Open jupyter notebook within folder that holds the cloned repo.
 
 Access Crowdfunding_ETL.
 
-Access Start_Files.
+Access Starter_Files.
 
 Access ETL_Mini_Project_Starter_Code.
 
